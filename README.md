@@ -1,5 +1,5 @@
 # Verba Chellange Task
-Implemented everything in specification.
+Implemented everything according to specification.
 
 # TODO: Further Improvements
 - Add Replay Functionality: automatically replay the video when it ends, or add a replay button, or repurpose the play button to restart the video.
